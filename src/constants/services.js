@@ -1,22 +1,24 @@
-import React from "react"
-import { FaCode, FaSketch, FaAndroid } from "react-icons/fa"
+import React from "react";
+import { FaCode, FaPaintBrush } from "react-icons/fa";
+import { GiMagnifyingGlass } from "react-icons/gi";
+
 export default [
   {
     id: 1,
     icon: <FaCode className="service-icon" />,
-    title: "web development",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    title: "Web Development",
+    text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at leo sodales, luctus est faucibus, mattis magna. In commodo sollicitudin ex, non lobortis augue facilisis id.`,
   },
   {
     id: 2,
-    icon: <FaSketch className="service-icon" />,
-    title: "web design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    icon: <FaPaintBrush className="service-icon" />,
+    title: "Web Design",
+    text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at leo sodales, luctus est faucibus, mattis magna. In commodo sollicitudin ex, non lobortis augue facilisis id.`,
   },
   {
     id: 3,
-    icon: <FaAndroid className="service-icon" />,
-    title: "app design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    icon: <GiMagnifyingGlass className="service-icon" />,
+    title: "SEO Optimization",
+    text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at leo sodales, luctus est faucibus, mattis magna. In commodo sollicitudin ex, non lobortis augue facilisis id.`,
   },
 ]

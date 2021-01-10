@@ -4,15 +4,9 @@ Change site metadata to suit yourself
 
 Style the navigation menu item based on which page the user is on.
 
-Change copyright blue text at the end
-
-Fix the text in about page, and the cover in home page.	
-
 Change site pic
 
-Change the icon links, and delete the unnecessary ones.
-
-Change all the data inside strapi
+Change all the data inside strapi (services and blog left)
 
 page transitions
 
@@ -27,6 +21,8 @@ look through the code and make changes as you see fit
 Add SEO component to the rest of the pages and each of the blog posts
 
 Starry sky parallax background with multiple elements moving at different speeds (moon, mountain, starry sky etc.)
+
+Create a logo (svg) and add it at the top left of the website
 
 deploy strapi
 

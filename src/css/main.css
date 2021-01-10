@@ -171,7 +171,7 @@ p {
 }
 /* added during recording */
 .underline {
-  width: 5rem;
+  width: 7.5rem;
   height: 0.25rem;
   margin-bottom: 1.25rem;
   background: var(--clr-primary-5);
@@ -190,12 +190,12 @@ p {
 /* social links */
 .social-links {
   margin-top: 2rem;
-  width: 10rem;
+  width: 9.1rem;
   display: flex;
   justify-content: space-between;
 }
 .social-link {
-  font-size: 1.75rem;
+  font-size: 2.00rem;
   color: var(--clr-grey-1);
   transition: var(--transition);
 }
@@ -429,6 +429,12 @@ Hero
 }
 .hero-img {
   display: none;
+}
+.hero-info h1 {
+  margin-bottom: 0;
+}
+.hero-info h2 {
+  margin-left: 7rem;
 }
 .hero-info h4 {
   color: var(--clr-grey-5);
@@ -894,7 +900,7 @@ About Page
 }
 .about-img {
   margin-bottom: 2rem;
-  height: 25rem;
+  height: 28rem;
 }
 .about-text .section-title {
   margin-bottom: 2rem;
